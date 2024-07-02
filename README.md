@@ -2,6 +2,8 @@
 
 A Slay the Spire mod that adds ten relics.
 
+Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=3279949836
+
 3 Common Relics
 - Toothpaste: Whenever an enemy's HP drops below 40%, apply 1 Weak to them.
 - Ceramic Disc: Gain 50 Gold whenever you kill more than one enemy in the same turn.
