@@ -18,4 +18,4 @@ A Slay the Spire mod that adds ten relics.
 - Party Bomb: Usable once per combat. Click button to write a word containing the group of 3 letters indicated that appears anywhere in the base game. If correct, activate _The Bomb_. Otherwise, reduce the counter by 1. When it reaches 0, this explodes.
 
 1 Shop Relic
-- Demonic Pact: Whenever you play an Attack, draw 1 card. Whenever you play 2 #yAttacks in a row, lose 6 HP.
+- Demonic Pact: Whenever you play an Attack, draw 1 card. Whenever you play 2 Attacks in a row, lose 6 HP.
