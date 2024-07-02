@@ -1,0 +1,36 @@
+{
+    "1": {
+        "question": "What is the internal name of Claw, that was also used before release?",
+        "possibleAnswers": [
+            "gash",
+            "Gash"
+        ]
+    },
+    "2": {
+        "question": "Which is the only enemy that can appear in Acts 1, 2 and 3?",
+        "possibleAnswers": [
+            "Cultist",
+            "cultist"
+        ]
+    },
+    "3": {
+        "question": "Which Gremlin is named GremlinTsundere in the source code?",
+        "possibleAnswers": [
+            "shield",
+            "Shield",
+            "Shield Gremlin",
+            "shield gremlin",
+            "Shield gremlin",
+            "shield Gremlin"
+        ]
+    },
+    "4": {
+        "question": "Which is the only enemy that can appear in Acts 1, 2 and 3?",
+        "possibleAnswers": [
+            "Cultist",
+            "cultist",
+            "bird",
+            "Bird"
+        ]
+    }
+}

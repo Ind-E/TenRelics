@@ -1,0 +1,73 @@
+{
+  "${modID}:BowlOfRice": {
+    "NAME": "Bowl of Rice",
+    "FLAVOR": "Upon closer inspection, each grain has been meticulously glued into place.",
+    "DESCRIPTIONS": [
+      "When adding cards to your deck, you may add a random #yupgraded Colorless card instead.",
+      "Random Card"
+    ]
+  },
+  "${modID}:CeramicDisc": {
+    "NAME": "Ceramic Disc",
+    "FLAVOR": "It seems ready to shatter at any moment.",
+    "DESCRIPTIONS": [
+      "Gain #b50 #yGold whenever you kill more than one enemy in the same turn."
+    ]
+  },
+  "${modID}:CreditCard": {
+    "NAME": "Credit Card",
+    "FLAVOR": "Earn 57.142857142% cash back on each purchase!",
+    "DESCRIPTIONS": [
+      "Every #b%dth card reward has #b%d additional cards to choose from."
+    ]
+  },
+  "${modID}:DemonicPact": {
+    "NAME": "Demonic Pact",
+    "FLAVOR": "What did you expect from a pact with a Demon?",
+    "DESCRIPTIONS": [
+      "Whenever you play an #yAttack [REMOVE_SPACE], draw #b%d card. Whenever you play #b2 #yAttacks in a row, lose #b%d HP."
+    ]
+  },
+  "${modID}:GoldenBoot": {
+    "NAME": "Golden Boot",
+    "FLAVOR": "Fortune favors the boot.",
+    "DESCRIPTIONS": [
+      "For every #b%d gold you gain, upgrade a random card in your deck. Prevents #yThe #yBoot from spawning."
+    ]
+  },
+  "${modID}:HoningSteel": {
+    "NAME": "Honing Steel",
+    "FLAVOR": "Keep your blade sharp, and your mind sharper.",
+    "DESCRIPTIONS": [
+      "Upon pickup, increase the damage of all #yAttacks in your deck by #b%d [REMOVE_SPACE]."
+    ]
+  },
+  "${modID}:PandorasShoebox": {
+    "NAME": "Pandora's Shoebox",
+    "FLAVOR": "Curiosity transforms the mundane into the extraordinary.",
+    "DESCRIPTIONS": [
+      "At the start of each combat, #yTransform all basic strikes and defends in your draw pile."
+    ]
+  },
+  "${modID}:PartyBomb": {
+    "NAME": "Party Bomb",
+    "FLAVOR": "It's a blast—literally.",
+    "DESCRIPTIONS": [
+      "[#2aecd7]Usable [#2aecd7]once [#2aecd7]per [#2aecd7]combat.[] Click button to write a word containing the group of 3 letters indicated that appears #banywhere in the base game. If correct, activate #yThe #yBomb. Otherwise, reduce the counter by 1. When it reaches 0, this explodes."
+    ]
+  },
+  "${modID}:SafetyBubble": {
+    "NAME": "Safety Bubble",
+    "FLAVOR": "Each time it's popped, it comes back stronger.",
+    "DESCRIPTIONS": [
+      "At the end of your turn, gain #b%d Block for each time you've been attacked this combat."
+    ]
+  },
+  "${modID}:Toothpaste": {
+    "NAME": "Toothpaste",
+    "FLAVOR": "Minty fresh, it keeps enemies and cavities at bay.",
+    "DESCRIPTIONS": [
+      "Whenever an enemy's HP drops below #b40% [REMOVE_SPACE], apply #b1 #yWeak to them."
+    ]
+  }
+}

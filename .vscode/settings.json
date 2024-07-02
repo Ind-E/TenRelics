@@ -1,0 +1,6 @@
+{
+    "window.zoomLevel": -0.3,
+    "java.debug.settings.onBuildFailureProceed": true,
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "codium.codeCompletion.enable": true
+}

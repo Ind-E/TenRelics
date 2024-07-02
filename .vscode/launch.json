@@ -1,0 +1,46 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "mts clean package",
+            "request": "launch",
+            "mainClass": "com.megacrit.cardcrawl.desktop.DesktopLauncher",
+            "vmArgs": "-Xmx2G -Djava.library.path=./native/ -Dfile.encoding=UTF-8",
+            "args": "",
+            "classPaths": [
+                "C:/Program Files (x86)/Steam/steamapps/workshop/content/646570/1605060445/ModTheSpire.jar"
+            ],
+            "stopOnEntry": false,
+            "cwd": "C:/Program Files (x86)/Steam/steamapps/common/SlayTheSpire",
+            "preLaunchTask": "clean and package"
+        },
+        {
+            "type": "java",
+            "name": "mts package only",
+            "request": "launch",
+            "mainClass": "com.megacrit.cardcrawl.desktop.DesktopLauncher",
+            "vmArgs": "-Xmx2G -Djava.library.path=./native/ -Dfile.encoding=UTF-8",
+            "args": "",
+            "classPaths": [
+                "C:/Program Files (x86)/Steam/steamapps/workshop/content/646570/1605060445/ModTheSpire.jar"
+            ],
+            "stopOnEntry": false,
+            "cwd": "C:/Program Files (x86)/Steam/steamapps/common/SlayTheSpire",
+            "preLaunchTask": "package only"
+        },
+        {
+            "type": "java",
+            "name": "mts run only",
+            "request": "launch",
+            "mainClass": "com.megacrit.cardcrawl.desktop.DesktopLauncher",
+            "vmArgs": "-Xmx2G -Djava.library.path=./native/ -Dfile.encoding=UTF-8",
+            "args": "",
+            "classPaths": [
+                "C:/Program Files (x86)/Steam/steamapps/workshop/content/646570/1605060445/ModTheSpire.jar"
+            ],
+            "stopOnEntry": false,
+            "cwd": "C:/Program Files (x86)/Steam/steamapps/common/SlayTheSpire"
+        }
+    ]
+}
